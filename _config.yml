@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            MUG Roma Tre
+tagline:          'Corso Arduino'
+description:      'Corso Arduino e Stampa 3D'
+url:              https://www.facebook.com/mugroma3/
+baseurl:          /
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mugroma3/corso-arduino
