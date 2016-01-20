@@ -11,7 +11,7 @@ title:            MUG Roma Tre
 tagline:          'Corso Arduino'
 description:      'Corso Arduino e Stampa 3D'
 url:              https://www.facebook.com/mugroma3/
-baseurl:          /
+baseurl:          /corso-arduino
 
 # Custom vars
 version:          2.1.0
