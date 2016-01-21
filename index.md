@@ -10,11 +10,8 @@ Ciao! questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 
 
 ###Questionario per la preparazione del corso
 
-Per permetterci di preparare al meglio questo corso, riempi questo 
-
-##[Questionario](http://goo.gl/forms/8womjGBs7B)
-
-dove ti verrà richiesta anche la email per tenerti aggiornato quando saranno decise le date definitive.
+Per permetterci di preparare al meglio questo corso, riempi questo
+<br>**[Questionario](http://goo.gl/forms/8womjGBs7B)** dove ti verrà richiesta anche la email per tenerti aggiornato quando saranno decise le date definitive.
 
 La tua risposta ci aiuterà a prenotare le aule dalla giusta capienza, e a decidere come allocare le risorse. Grazie!
 
