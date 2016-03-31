@@ -1,3 +1,8 @@
+---
+layout: page
+title: Prima Incontro
+---
+
 # Introduzione ad Arduino
 ## Cosa è Arduino, quale Arduino, GPIO, Comunicazione Seriale
 
