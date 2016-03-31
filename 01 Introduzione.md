@@ -11,6 +11,7 @@ published: true
 
 In Questa lezione abbiamo visto una introduzione a vari concetti base per iniziare ad utilizzare la Arduino Uno
 
+
 - Digital In/Out
 - Analog In/Out
 - Serial
