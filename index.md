@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 # Introduzione ad Arduino e Stampa 3D
 ![mug_arduino_stampa3d](images/header_introduzione.png "Mug StepperMotor Arduino Stampa3D")
 
@@ -16,10 +17,10 @@ Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su 
 
 In questo secondo incontro parleremo di sensori e motori! Ci sarà una parte pratica, però i kit che avremo a disposizione saranno un numero limitato! Chi ha una scheda Arduino la porti, con alcuni componenti:
 
-buzzer
-pulsante
-servomotore
-un sensore (per esempio una fotoresistenza)
+* buzzer
+* pulsante
+* servomotore
+* un sensore (per esempio una fotoresistenza)
 
 
 ### Info sul programma e come iscriversi
