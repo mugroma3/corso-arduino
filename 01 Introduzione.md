@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Prima Incontro
+title: Primo Incontro
 ---
 
 # Introduzione ad Arduino
+
 ## Cosa è Arduino, quale Arduino, GPIO, Comunicazione Seriale
 
 In Questa lezione abbiamo visto una introduzione a vari concetti base per iniziare ad utilizzare la Arduino Uno
