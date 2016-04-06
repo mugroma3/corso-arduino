@@ -6,21 +6,21 @@ published: true
 
 
 
+
 # Introduzione ad Arduino e Stampa 3D
 ![mug_arduino_stampa3d](images/header_introduzione.png "Mug StepperMotor Arduino Stampa3D")
 
 Ciao! questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 3D** organizzata dal MUG Roma Tre grazie al finanziamento dell'Università.
 
-## [Prenota qui il secondo incontro: sensori e motori](https://www.eventbrite.it/e/biglietti-introduzione-ad-arduino-e-alla-stampa-3d-seconda-lezione-23271893861)
+## [Prenota qui il terzo incontro: esercizi pratici, Internet of Things e progetto ospite](https://www.eventbrite.it/e/biglietti-introduzione-ad-arduino-e-alla-stampa-3d-terza-lezione-24442999670)
 
-Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su eventbrite. Lo spazio non manca, ma i kit sono in numero limitato. 
+Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su Eventbrite. Lo spazio non manca, ma i kit sono in numero limitato. 
 
-In questo secondo incontro parleremo di sensori e motori! Ci sarà una parte pratica, però i kit che avremo a disposizione saranno un numero limitato! Chi ha una scheda Arduino la porti, con alcuni componenti:
+Questa terza lezione avrà tre parti:
 
-* buzzer
-* pulsante
-* servomotore
-* un sensore (per esempio una fotoresistenza)
+* ci sarà un ospite, Leonardo, un ragazzo di Roma Tre che ci presenterà il suo progetto di tesi, un esoscheletro per aiutare persone affette da distrofia muscolare;
+* continueremo degli esercizi pratici con i kit Arduino (chi ha il suo, lo porti!);
+* introdurremo il mondo dell'Internet of Things.
 
 
 ### Info sul programma e come iscriversi
