@@ -4,6 +4,7 @@ title: Seconda Lezione
 published: true
 ---
 
+
 # Sensori e Motori
 
 abbiamo parlato di
@@ -15,8 +16,8 @@ abbiamo parlato di
 * Servo motore
 * 6 esercizi pratici
 
+*sono stati corretti degli errori nel codice*
 
 le slide per questo incrontro sono disponibili [Qui]({{ site.baseurl }}/materiale/lezione2.pdf)
-**sono stati corretti degli errori nel codice**
-le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [QUI]({{ site.baseurl }}/materiale/slidebomba.pdf)
 
+le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [QUI]({{ site.baseurl }}/materiale/slidebomba.pdf)
