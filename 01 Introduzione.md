@@ -1,20 +1,22 @@
 ---
 layout: page
-title: Primo Incontro
+title: Prima lezione
 published: true
 ---
 
 
+
+
 # Introduzione ad Arduino
 
-## Cosa è Arduino, quale Arduino, GPIO, Comunicazione Seriale
+## Cosa è Arduino, quale Arduino, GPIO, comunicazione seriale
 
-In Questa lezione abbiamo visto una introduzione a vari concetti base per iniziare ad utilizzare la Arduino Uno
 
+In questa lezione abbiamo visto una introduzione a vari concetti base per iniziare ad utilizzare la Arduino Uno:
 
 - Digital In/Out
 - Analog In/Out
 - Serial
 - PWM
 
-le slide per questo incrontro sono disponibili [Qui]({{ site.baseurl }}/materiale/Introduzione.pdf)
+Le slide per questo incontro sono disponibili [qui]({{ site.baseurl }}/materiale/Introduzione.pdf).

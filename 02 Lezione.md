@@ -5,9 +5,10 @@ published: true
 ---
 
 
+
 # Sensori e Motori
 
-abbiamo parlato di
+Abbiamo parlato di:
 
 * Come leggere un sensore analogico
 * Trimmer
@@ -18,6 +19,6 @@ abbiamo parlato di
 
 *sono stati corretti degli errori nel codice*
 
-le slide per questo incrontro sono disponibili [Qui]({{ site.baseurl }}/materiale/lezione2.pdf)
+le slide per questo incrontro sono disponibili [qui]({{ site.baseurl }}/materiale/lezione2.pdf)
 
-le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [QUI]({{ site.baseurl }}/materiale/slidebomba.pdf)
+le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [qui]({{ site.baseurl }}/materiale/slidebomba.pdf)
