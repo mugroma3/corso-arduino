@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # Introduzione ad Arduino e Stampa 3D
 ![mug_arduino_stampa3d](images/header_introduzione.png "Mug StepperMotor Arduino Stampa3D")
 
@@ -17,7 +18,7 @@ Ciao! questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 
 
 Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su Eventbrite. Lo spazio non manca, ma i kit sono in numero limitato. 
 
-Questa quinta ed ultima lezione sarà dedicata totalmente al mondo della **stampa 3D**: cosa è, quali sono i macchinari più utilizzati, quali sono i programmi da usare per modellare, scansionare, stampare e gestire la propria stampante, il tutto accompagnato dal dolce suono dei motori della nostra stampante che ci produrrà alcuni semplici oggetti.
+Questa quinta ed ultima lezione sarà dedicata totalmente al mondo della **stampa 3D**: cosa è, quali sono i macchinari più utilizzati, quali sono i programmi da usare per modellare, scansionare, stampare e gestire la propria stampante.
 
 
 ### Info sul programma e come iscriversi
