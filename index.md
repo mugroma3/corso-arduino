@@ -9,6 +9,7 @@ published: true
 
 
 
+
 # Introduzione ad Arduino e Stampa 3D
 ![mug_arduino_stampa3d](images/header_introduzione.png "Mug StepperMotor Arduino Stampa3D")
 
@@ -19,6 +20,9 @@ Ciao! questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 
 Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su Eventbrite. Lo spazio non manca, ma i kit sono in numero limitato. 
 
 Questa quinta ed ultima lezione sarà dedicata totalmente al mondo della **stampa 3D**: cosa è, quali sono i macchinari più utilizzati, quali sono i programmi da usare per modellare, scansionare, stampare e gestire la propria stampante.
+
+Inoltre, altra sessione di pratica con i kit **Arduino** (chi ha il proprio, lo porti!), ma soprattutto... sessione **openmic**!! Vuoi presentare un tuo progetto maker? Cerchi collaboratori? Hai un'idea e vuoi esporla agli altri studenti del corso del MUG? Registrati ed avrai tuoi tre minuti di gloria col microfono! [Prenota il tuo turno!](http://goo.gl/forms/uW2TdJgfv1)
+
 
 
 ### Info sul programma e come iscriversi
