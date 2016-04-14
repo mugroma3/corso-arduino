@@ -6,6 +6,7 @@ published: true
 
 
 
+
 # Sensori e Motori
 
 Abbiamo parlato di:
@@ -19,6 +20,6 @@ Abbiamo parlato di:
 
 *sono stati corretti degli errori nel codice*
 
-le slide per questo incrontro sono disponibili [qui]({{ site.baseurl }}/materiale/lezione2.pdf)
+Le slide per questo incontro sono disponibili [qui]({{ site.baseurl }}/materiale/lezione2.pdf).
 
-le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [qui]({{ site.baseurl }}/materiale/slidebomba.pdf)
+Le slide per la bomba di Andrea Rosati e Valerio Marta sono disponibili [qui]({{ site.baseurl }}/materiale/slidebomba.pdf), mentre [qui](https://www.youtube.com/watch?v=1eTwQgh-hgM) troverete il video.
