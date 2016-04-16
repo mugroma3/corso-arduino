@@ -14,7 +14,7 @@ Si trova a [Via Vito Volterra 62, dipartimento di Informatica e Automazione stan
 
 Puoi scriverci attraverso la pagina di [Facebook](http://facebook.com/mugroma3) oppure attraverso la nostra [email](mail:mug.romatre@gmail.com).
 
-Seguici anche su [Twitter](https://www.twitter.com/mugroma3), [YouTube](http://www.youtube.com/channel/UCW5s7HBoj0kh3ikIItlWYLg), [Telegram](telegram.me/mugroma3) e sul nostro [sito ufficiale](http://muglab.uniroma3.it)!
+Seguici anche su [Twitter](https://www.twitter.com/mugroma3), [YouTube](http://www.youtube.com/channel/UCW5s7HBoj0kh3ikIItlWYLg), [Telegram](http://telegram.me/mugroma3) e sul nostro [sito ufficiale](http://muglab.uniroma3.it)!
 
 Tutto il codice si trova su [GitHub](https://github.com/mugroma3).
 
