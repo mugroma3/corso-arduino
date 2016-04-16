@@ -13,16 +13,11 @@ published: true
 # Introduzione ad Arduino e Stampa 3D
 ![mug_arduino_stampa3d](images/header_introduzione.png "Mug StepperMotor Arduino Stampa3D")
 
-Ciao! questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 3D** organizzata dal MUG Roma Tre grazie al finanziamento dell'Università.
+Ciao! Questa è la pagina del corso gratuito **Introduzione ad Arduino e Stampa 3D** organizzata dal MUG Roma Tre grazie al finanziamento dell'Università.
 
-## [Prenota qui il quinto incontro: stampa 3D](https://www.eventbrite.it/e/biglietti-introduzione-ad-arduino-e-alla-stampa-3d-quinta-lezione-24605926990)
+## [Questionario finale sul corso](http://goo.gl/forms/6Jc4QWGv5N)
 
-Per permetterci di gestire meglio gli spazi, per favore prenota il tuo posto su Eventbrite. Lo spazio non manca, ma i kit sono in numero limitato. 
-
-Questa quinta ed ultima lezione sarà dedicata totalmente al mondo della **stampa 3D**: cosa è, quali sono i macchinari più utilizzati, quali sono i programmi da usare per modellare, scansionare, stampare e gestire la propria stampante.
-
-Inoltre, altra sessione di pratica con i kit **Arduino** (chi ha il proprio, lo porti!), ma soprattutto... sessione **openmic**!! Vuoi presentare un tuo progetto maker? Cerchi collaboratori? Hai un'idea e vuoi esporla agli altri studenti del corso del MUG? Registrati ed avrai tuoi tre minuti di gloria col microfono! [Prenota il tuo turno!](http://goo.gl/forms/uW2TdJgfv1)
-
+Se hai partecipato ad almeno una lezione del nostro corso, compila il questionario! Ci aiuterai a capire com'è stato per te l'evento, le tue impressioni, i tuoi dubbi e altre importanti questioni!
 
 
 ### Info sul programma e come iscriversi
@@ -30,16 +25,12 @@ Inoltre, altra sessione di pratica con i kit **Arduino** (chi ha il proprio, lo 
 Il Corso si terrà nel prossimo mese di Aprile, dove lavorerai in gruppo con un kit arduino fornito dall'università per mettere in pratica cosa hai imparato nella lezione. 
 Le lezioni si terranno secondo questo calendario:
 
+* mercoledì 30 Marzo dalle 18.00 alle 19.30 in aula N1;
 * martedì 5 e 12 Aprile dalle 18.00 alle 19.30 in aula N1;
-* sabato 9 e 16 Aprile dalle 10.00 alle 11.30 in aula DS1 (150 posti disponibili). 
+* sabato 9 e 16 Aprile dalle 10.00 alle 11.30 in aula DS1. 
 
 L'ultima settimana sarà dedicata alla stampa 3D, parleremo delle tecnologie utilizzabili già da adesso dagli hobbisti e sarà progettato dal vivo un semplice oggetto stampabile.
 
 
 Questa pagina e il repo [https://github.com/mugroma3/corso-arduino](https://github.com/mugroma3/corso-arduino) conterrà tutto il materiale prodotto per questo corso.
 
-Per iscriverti, usa il link in cima alla pagina.
-
-### Prese elettriche
-
-Essendo le prese molto limitate, vieni con un portatile con la batteria carica se vuoi partecipare attivamente alla parte pratica della lezione, grazie.
