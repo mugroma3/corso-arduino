@@ -13,7 +13,7 @@ Abbiamo parlato di:
 * protocolli di comunicazione hardware
 * Internet of Things
 * seriale vs Bluetooth vs WiFi
-* demo bot Telegram
+* demo bot Telegram ([codice](https://github.com/mugroma3/EsempioArduinoTelegram))
 
 Le slide per questo incontro sono disponibili [qui]({{ site.baseurl }}/materiale/lezione3.pdf).
 
